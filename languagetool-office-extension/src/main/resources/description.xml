@@ -7,6 +7,7 @@
 		<name lang="en">LanguageTool</name>
 	</display-name>
 	<extension-description>
+		<src xlink:href="description/desc_bg.txt" lang="en" />
 		<src xlink:href="description/desc_en.txt" lang="en" />
 		<src xlink:href="description/desc_ast.txt" lang="ast" />
 		<src xlink:href="description/desc_be.txt" lang="be" />
